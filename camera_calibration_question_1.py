@@ -1,7 +1,9 @@
 #!/bin/python3
 
+# John Choi - jchoi16@student.cscc.edu / choi.1655@osu.edu
+# Speed Sensor Lab, Camera Calibration Technique Calculation Script
+
 import numpy
-import matplotlib
 
 # ========================================
 # GLOBAL
